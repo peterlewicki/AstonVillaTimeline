@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/peterlewicki/pen/egrJmz.
-
- A simple scrolling timeline using HTML, CSS and a spot of Javascript.  
+User story:  reading the history of the Aston Villa Football Club is an attractive, responsive scrolling timeline.  Uses HTML CSS and Javascript.
